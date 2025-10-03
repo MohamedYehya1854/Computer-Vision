@@ -1,12 +1,3 @@
-# MCQs — Introduction to Computer Vision (Lecture 1)
-
-**Course:** Computer Vision — Lecture 1: Introduction
-
-**Instructor:** Prof. Dr. Mohammed Elmogy
-
-**Purpose:** A set of Multiple Choice Questions (MCQs) covering the entire lecture content. Each question includes 4 choices (A, B, C, D), the correct answer, and a short explanation directly based on the lecture.
-
----
 
 ## Questions
 
