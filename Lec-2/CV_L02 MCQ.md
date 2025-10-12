@@ -603,5 +603,5 @@ D) Increasing storage capacity
 
 ---
 
-## End of questions (50 total)
+## End of questions
 
