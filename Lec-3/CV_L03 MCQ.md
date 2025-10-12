@@ -1,10 +1,6 @@
 # MCQs — Computer Vision Lecture 3: Feature Detection and Edge Detection
 
-**Course:** Computer Vision — Lecture 3: Feature Detection and Edge Detection  
-**Instructor:** Prof. Dr. Mohammed Elmogy  
-**Purpose:** Multiple Choice Questions (MCQs) covering the entire lecture content. Each question includes 4 choices (A, B, C, D), the correct answer, and a short explanation directly based on the lecture.
-
----
+## Questions
 
 ### Q1
 **Feature detection in computer vision is mainly used to:**
