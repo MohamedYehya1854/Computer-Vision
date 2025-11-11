@@ -1,11 +1,6 @@
 # MCQs — Computer Vision Lecture 5: Feature Detection and Matching (Lines and Shapes)
 
-**Course:** Computer Vision  
-**Lecture:** 5 – Feature Detection and Matching (Lines and Shapes)  
-**Instructor:** [Not Specified]  
-**Purpose:** Multiple Choice Questions (MCQs) covering all lecture contents. Each question includes 4 choices (A, B, C, D), the correct answer, and a short explanation directly based on the lecture text.
-
----
+## Questions
 
 ### Q1
 **Shape-based feature detection focuses on identifying:**
