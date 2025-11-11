@@ -1,11 +1,6 @@
 # MCQs — Computer Vision Lecture 4: SIFT (Scale Invariant Feature Transform)
 
-**Course:** Computer Vision  
-**Lecture:** 4 – SIFT Feature Detection and Matching  
-**Instructor:** [Not Specified]  
-**Purpose:** Multiple Choice Questions (MCQs) covering all lecture contents. Each question includes 4 choices (A, B, C, D), the correct answer, and a short explanation directly based on the lecture text.
-
----
+## Questions
 
 ### Q1
 **SIFT stands for:**
